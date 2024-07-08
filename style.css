@@ -1,3 +1,4 @@
+/*Nolan Walker style css script*/
 body {
 	font-family: helvetica, arial, sans-serif;
 }
@@ -36,8 +37,6 @@ h1 {
 	max-height: 150%;
 	z-index: 2;
 }
-
-/*https://codepen.io/Rotarepmi/pen/rjpNZY*/
 
 .jar-walls {
 	height: 80%;
