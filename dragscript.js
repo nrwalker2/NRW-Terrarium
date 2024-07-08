@@ -1,5 +1,4 @@
-/* Nolan Walker drag script*/
-/* creating elements and assinging them to the plant images*/
+
 dragElement(document.getElementById('plant1'));
 dragElement(document.getElementById('plant2'));
 dragElement(document.getElementById('plant3'));
@@ -15,7 +14,6 @@ dragElement(document.getElementById('plant12'));
 dragElement(document.getElementById('plant13'));
 dragElement(document.getElementById('plant14'));
 
-/* creating drag element functions */
 function dragElement(terrariumElement) {
 	//set 4 positions for positioning on the screen
 	let pos1 = 0,
